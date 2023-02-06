@@ -1,0 +1,31 @@
+.country-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 0.25px solid #f1f5f925;
+  height: 50px;
+  padding: 5px 30px 5px 20px;
+}
+.country-name {
+  font-size: 15px;
+  color: #f8fafc;
+  font-weight: 600;
+}
+.visited {
+  font-size: 14px;
+  color: #94a3b8;
+  font-weight: 500;
+  width: 85px;
+  text-align: center;
+}
+.visit-button {
+  font-size: 14px;
+  color: #cbd5e1;
+  font-weight: 500;
+  border: 0;
+  background-color: #3b82f6;
+  border-radius: 3px;
+  height: 30px;
+  width: 85px;
+  cursor: pointer;
+}
